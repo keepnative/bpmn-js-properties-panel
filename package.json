@@ -1,5 +1,5 @@
 {
-  "name": "bpmn-js-properties-panel",
+  "name": "@keepnative/bpmn-js-properties-panel",
   "version": "0.17.0",
   "description": "A simple properties panel for bpmn-js",
   "scripts": {
